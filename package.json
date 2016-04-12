@@ -1,6 +1,6 @@
 {
   "name": "multi-schema-linker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This tool allows you to write your schemas in multiple files, and link them via references. Compatible with JSON and YAML.",
   "main": "lib/index.js",
   "bin" : {
