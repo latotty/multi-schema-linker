@@ -1,0 +1,5 @@
+---
+  jsonRef:
+    $x-d-ref: ./ref.json
+  yamlRef:
+    $x-d-ref: ./ref.yaml
